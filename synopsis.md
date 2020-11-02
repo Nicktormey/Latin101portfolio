@@ -33,4 +33,4 @@
 2. ducuntur,ducebantur,ductae sunt
 3. audiuntur,audiebantur,auditae sunt
 4. capiuntur,capiebantur,captae sunt
-5.videntur,videbantur,visae sunt  
+5.videntur,videbantur,visae sunt
