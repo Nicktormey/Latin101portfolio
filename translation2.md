@@ -1,8 +1,11 @@
-A.  
+**Satisfactory:  full credit**
+
+A.  **Perfect!**
 Olim *Prometheus*, Iapetī fīlius prīmus, hominēs ex lutō **fingēbat**. Simul *Vulcānus* ex lutō fēminam **faciēbat**. *Minerva* huic fēminae animam **dedit** et omnēs *deī* dōna eī **misērunt**. ob id *nōmen* “Pandōra” ei **datum est**. *Pandōra* ab Iove in coniugium Epimetheō **data est**. *Fīlia* eōrum **erat** Pyrrha, prīma mortālis.  
 
-B.  
-1. The function of *Iapetī fīlius prīmus* is to give exposition on the main subject of the sentence, Prometheus. 
+
+B.  **Perfect!**
+1. The function of *Iapetī fīlius prīmus* is to give exposition on the main subject of the sentence, Prometheus.
 2. *fingēbat* is a 3rd person sigular verb that is in the Imperfect Active Indicative.
 3. *huic* is a demonstrative adjective in the dative case that agrees with *feminae*.
 4. *omnēs deī dōna eī misērunt* is a transitive sentence:  
@@ -16,4 +19,4 @@ B.
 7. *erat* is in the Imperfect tense and its principle parts are *sum, esse, fuī,* and *futūrus*  
 
 C.  
-Long ago, Prometheus, first son of Iapetus, fashioned humans out of mud. At the same time, Vulcan made a woman from mud. Minerva gave a soul to this woman and all the gods sent her gifts. Because of this, her name was "Pandora". Pandora was given into marriage to Epimetheus by Jupiter. Their daughter was Pyrrha, the first mortal. 
+Long ago, Prometheus, first son of Iapetus, fashioned humans out of mud. At the same time, Vulcan made a woman from mud. Minerva gave a soul to this woman and all the gods sent her gifts. Because of this, her name was "Pandora". Pandora was given into marriage to Epimetheus by Jupiter. Their daughter was Pyrrha, the first mortal.
