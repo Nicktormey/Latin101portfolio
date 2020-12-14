@@ -17,5 +17,5 @@ B. **Perfect**
 
 C.
 
-Chaos was the first of the gods. His daughters were Nox and Terra, who was the mother of all people. She was the mother of Death and Destruction. His children were horrible monsters: Typhon, Python, and Cyclōpēs. Typhon and Python were huge serpents and Cyclōpēs was an oafish mason.  (**What number is *bruti fabri*?**)
+Chaos was the first of the gods. His daughters were Nox and Terra, who was the mother of all people. She was the mother of Death and Destruction. His children were horrible monsters: Typhon, Python, and the Cyclōpēs. Typhon and Python were huge serpents and the Cyclōpēs were oafish masons.
 And their brother, Uranus, was the very first king of the gods. He was strong and great, yet wise.
